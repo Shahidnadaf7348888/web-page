@@ -1,5 +1,3 @@
-
-
 #turtle graphic design in python 
 
 imoprt turtle
@@ -14,7 +12,5 @@ while _(True):
                 turtle.color(colors)
                 turtle.circle(100)
                 turtle.left(10)
-
-
 turtle.hideturtle()
 turtle.mainloop()
